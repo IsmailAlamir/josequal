@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+    <Placemark>
+      <name>Luminus Technology</name>
+      <description><![CDATA[Luminus Technology University College]]></description>
+      <Point>
+        <coordinates>35.8713946,31.897932</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>TennisPro Jordan</name>
+      <description><![CDATA[Tennis, Padel & Fitness Center in Amman]]></description>
+      <Point>
+        <coordinates>35.8838908,31.910973</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Al-Zaytoonah University</name>
+      <description><![CDATA[Al-Zaytoonah Private University of Jordan]]></description>
+      <Point>
+        <coordinates>35.9020633,31.8462373</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Middle East University</name>
+      <description><![CDATA[Middle East University MEU]]></description>
+      <Point>
+        <coordinates>35.9236969,31.808568</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Isra University</name>
+      <description><![CDATA[Al-Isra University is a private university in Amman, Jordan]]></description>
+      <Point>
+        <coordinates>35.9384071,31.7970286</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>University of Petra</name>
+      <description><![CDATA[Petra University (UOP), a university where students really enjoy]]></description>
+      <Point>
+        <coordinates>35.8915998,31.8960128</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
